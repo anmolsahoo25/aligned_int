@@ -1,0 +1,3 @@
+(executable
+  (name main)
+  (libraries aligned_int))

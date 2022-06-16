@@ -1,0 +1,3 @@
+(library
+  (name aligned_int)
+  (foreign_stubs (language c) (names aligned_int_stubs)))
