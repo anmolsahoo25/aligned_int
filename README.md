@@ -30,7 +30,7 @@ On my machine the results are -
 
 ```
 * 7.28s (unaligned)
-* 5.62  (aligned)
+* 5.62s  (aligned)
 ```
 
 There is a reduction of 22.80% in the wall-clock time for the aligned case over
