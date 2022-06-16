@@ -6,7 +6,7 @@ libraries. Note: Only works on MacOS right now. Working on making this portable.
 The library has one useful function -
 
 ```
-val aligned_int : int -> int Atomic.t
+val make : int -> int Atomic.t
 ```
 
 This creates an atomic integer which is aligned to a cache line boundary and
